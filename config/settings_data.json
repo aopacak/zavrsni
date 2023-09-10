@@ -296,11 +296,12 @@
       "1630061674ce94029a": {
         "type": "image-with-text",
         "settings": {
+          "image": "shopify:\/\/shop_images\/headphones-3683983_1280.jpg",
           "layout": "right",
           "title": "Slušalice i MIkrofoni",
           "text": "<p>Najbolja ponuda slušalica i mikrofona<\/p>",
           "button_label": "SAZNAJ VIŠE",
-          "button_link": "shopify:\/\/collections\/slusalice-i-mikrofoni"
+          "button_link": "shopify:\/\/collections\/slusalice"
         }
       },
       "1630070474660ae262": {
