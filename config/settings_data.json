@@ -196,22 +196,22 @@
       "list-collections-template": {
         "type": "list-collections-template",
         "blocks": {
-          "63e56fe0-1d1c-4c1c-8a08-423a7a30be1c": {
+          "4e7d2be7-1ba2-4bef-9b0e-57fd9561f001": {
             "type": "collection",
             "settings": {
-              "collection": "racunala"
+              "collection": "top-ponuda"
+            }
+          },
+          "a295b242-785d-4572-862a-3a11a155d254": {
+            "type": "collection",
+            "settings": {
+              "collection": "popularni-proizvodi"
             }
           },
           "9241a1b9-bcd2-4a44-a8f6-1baaea9fe6c2": {
             "type": "collection",
             "settings": {
               "collection": "snizenja"
-            }
-          },
-          "4e7d2be7-1ba2-4bef-9b0e-57fd9561f001": {
-            "type": "collection",
-            "settings": {
-              "collection": "top-ponuda"
             }
           },
           "be910275-df1c-46e5-81b7-a671f730036e": {
@@ -229,24 +229,38 @@
           "5e6281b5-72a0-4f76-914f-f608a501aff5": {
             "type": "collection",
             "settings": {
-              "collection": ""
+              "collection": "dodatci-za-igranje"
             }
           },
           "e8d288bc-5d36-4f41-9b29-cfda58164ae1": {
             "type": "collection",
             "settings": {
-              "collection": ""
+              "collection": "slusalice"
+            }
+          },
+          "63e56fe0-1d1c-4c1c-8a08-423a7a30be1c": {
+            "type": "collection",
+            "settings": {
+              "collection": "racunala"
+            }
+          },
+          "48a8438e-6672-4707-8698-786177fb61a5": {
+            "type": "collection",
+            "settings": {
+              "collection": "monitori"
             }
           }
         },
         "block_order": [
-          "63e56fe0-1d1c-4c1c-8a08-423a7a30be1c",
-          "9241a1b9-bcd2-4a44-a8f6-1baaea9fe6c2",
           "4e7d2be7-1ba2-4bef-9b0e-57fd9561f001",
+          "a295b242-785d-4572-862a-3a11a155d254",
+          "9241a1b9-bcd2-4a44-a8f6-1baaea9fe6c2",
           "be910275-df1c-46e5-81b7-a671f730036e",
           "05965212-4b3b-4625-afa2-12a7ed10a100",
           "5e6281b5-72a0-4f76-914f-f608a501aff5",
-          "e8d288bc-5d36-4f41-9b29-cfda58164ae1"
+          "e8d288bc-5d36-4f41-9b29-cfda58164ae1",
+          "63e56fe0-1d1c-4c1c-8a08-423a7a30be1c",
+          "48a8438e-6672-4707-8698-786177fb61a5"
         ],
         "settings": {
           "display_type": "selected",
