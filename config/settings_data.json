@@ -304,44 +304,11 @@
           "button_link": "shopify:\/\/collections\/slusalice"
         }
       },
-      "1630070474660ae262": {
-        "type": "slideshow",
-        "blocks": {
-          "1630070474660ae262-0": {
-            "type": "image",
-            "settings": {
-              "link": "shopify:\/\/collections\/monitori",
-              "heading_overlay": "MONITORI",
-              "heading_overlay_color": "#ffffff",
-              "heading_size": 32,
-              "cta": "KUPI"
-            }
-          },
-          "2c461b68-27dd-482a-aaa4-037ab7eb985e": {
-            "type": "image",
-            "settings": {
-              "link": "shopify:\/\/collections\/prijenosna-racunala",
-              "heading_overlay": "Prijenosna računala",
-              "heading_overlay_color": "#ffffff",
-              "heading_size": 32,
-              "cta": "KUPI"
-            }
-          }
-        },
-        "block_order": [
-          "1630070474660ae262-0",
-          "2c461b68-27dd-482a-aaa4-037ab7eb985e"
-        ],
-        "settings": {
-          "slider_home_auto": true,
-          "slider_home_rate": "5000"
-        }
-      },
       "16300730987ae5a091": {
         "type": "collection-rows",
         "settings": {
           "title": "Dodaci za igranje",
-          "home_featured_row": "dodaci-za-igranje",
+          "home_featured_row": "dodatci-za-igranje",
           "grid": 4,
           "rows": 1,
           "product_show_saved_amount": true,
@@ -439,7 +406,6 @@
       "collection-row-2",
       "collection-row-3",
       "1630061674ce94029a",
-      "1630070474660ae262",
       "16300730987ae5a091",
       "16300731042be116e7",
       "1630073108bd2f2892"
