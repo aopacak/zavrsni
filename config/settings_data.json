@@ -409,7 +409,15 @@
       "16300730987ae5a091",
       "16300731042be116e7",
       "1630073108bd2f2892"
-    ]
+    ],
+    "blocks": {
+      "6143736321357441667": {
+        "type": "shopify:\/\/apps\/tidio-live-chat-chatbots\/blocks\/app-embed\/1002274d-fb18-4939-98f6-5f05a8deeadc",
+        "disabled": false,
+        "settings": {
+        }
+      }
+    }
   },
   "presets": {
     "Blue": {
